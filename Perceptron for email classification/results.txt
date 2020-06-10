@@ -1,0 +1,25 @@
+Output when stop words included
+
+Number of iterations:0 and learning rate:0.1 Accuracy is on spam test data: 1.0 Accuracy is on ham test data: 0.031609195402298854
+Accuracy is:0.5158045977011494
+
+Number of iterations:1 and learning rate:0.1 Accuracy is on spam test data: 1.0 Accuracy is on ham test data: 0.3448275862068966
+Accuracy is:0.6724137931034483
+
+Number of iterations:2 and learning rate:0.1 Accuracy is on spam test data: 1.0 Accuracy is on ham test data: 0.5201149425287356
+Accuracy is:0.7600574712643677
+
+Number of iterations:3 and learning rate:0.1 Accuracy is on spam test data: 0.9846153846153847 Accuracy is on ham test data: 0.8620689655172413
+Accuracy is:0.923342175066313
+
+Number of iterations:4 and learning rate:0.1 Accuracy is on spam test data: 0.9923076923076923 Accuracy is on ham test data: 0.7586206896551724
+Accuracy is:0.8754641909814324
+
+Number of iterations:5 and learning rate:0.1 Accuracy is on spam test data: 1.0 Accuracy is on ham test data: 0.8017241379310345
+Accuracy is:0.9008620689655172
+
+Number of iterations:6 and learning rate:0.1 Accuracy is on spam test data: 1.0 Accuracy is on ham test data: 0.6494252873563219
+Accuracy is:0.8247126436781609
+
+Number of iterations:7 and learning rate:0.1 Accuracy is on spam test data: 1.0 Accuracy is on ham test data: 0.8706896551724138
+Accuracy is:0.9353448275862069

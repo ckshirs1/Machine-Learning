@@ -1,0 +1,1 @@
+Accuracy with introduction of the stop words decreases, means when we dont skip stop words, the accuracy increases, because they are also involved in the process of the detecting the spam or ham. They are also contributing to the spam and ham content of the email

@@ -1,0 +1,7 @@
+Data Set 1: 
+test data result:0.8662420382165605
+validation data set results: 0.8770949720670391
+
+Data Set 2:  
+test data result:0.0
+validation data set results: 1.0
